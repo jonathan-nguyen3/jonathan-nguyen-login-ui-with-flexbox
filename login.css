@@ -48,7 +48,7 @@ input {
 }
 button {
     font-family:'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
+    justify-content: center;
     margin: 10px;
     width: 75%;
     min-height: 30px;
